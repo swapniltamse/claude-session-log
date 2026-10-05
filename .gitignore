@@ -1,0 +1,5 @@
+index.html
+sessions.md
+__pycache__/
+.claude/
+.claude.json*
